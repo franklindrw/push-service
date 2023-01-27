@@ -1,5 +1,5 @@
 
-![notifications-banner](https://user-images.githubusercontent.com/81038899/215006381-aac563f2-3323-49bf-9ce1-00c8de0994ec.jpg)
+![notifications-banner](https://user-images.githubusercontent.com/81038899/215006381-aac563f2-3323-49bf-9ce1-00c8de0994ec.jpg#vitrinedev)
 <h1 align="center"> API REST - Notifications </h1>
 <div id="statusProject" align="center">
   <img src="https://img.shields.io/github/license/franklindrw/push-service.svg?style=for-the-badge" />
